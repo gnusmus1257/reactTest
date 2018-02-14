@@ -16,3 +16,14 @@
     font-size: 18px;
     border-bottom: 2px solid #f2f2f2;
 }
+
+.control-wrap{
+    width: 75%;
+    border:1px solid rgba(0, 0, 0, 0.19);
+    padding: 3px 8px;
+}
+
+body, input{
+    font-family: "open sans","Helvetica Neue",Helvetica,Arial,sans-serif!important;
+    color: #404040;
+}

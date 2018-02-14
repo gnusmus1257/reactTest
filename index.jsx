@@ -7,7 +7,7 @@ class Card extends React.Component {
             </div>
             <div className={"card-body"}>
                 <form>
-                    <input placeholder={"Email"} type={"email"}/>
+                    <input placeholder={"Email"} type={"email"} className={"control-wrap"}/>
 
                 </form>
             </div>
