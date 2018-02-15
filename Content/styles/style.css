@@ -49,6 +49,11 @@
     margin: 2% 2%;
 }
 
+.desktop-icon:hover{
+    cursor: pointer;
+    filter: brightness(80%);
+}
+
 .card-header{
     margin: 15px 25px;
     text-align: center;
@@ -101,6 +106,3 @@ input {
     transition: ease-in-out, width .15s ease-in-out;
     margin-bottom: 5%;
 }
-
-
-
