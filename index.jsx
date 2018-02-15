@@ -6,9 +6,10 @@ class Card extends React.Component {
                 <span>Test Card Now</span>
             </div>
             <div className={"card-body"}>
-                <form>
-                    <input placeholder={"Email"} type={"email"} className={"control-wrap"}/>
-
+                <form className={"card-form"}>
+                    <input placeholder={"Email"} type={"email"} className={"control-wrap"} autofocus autoComplete={"on"}/>
+                    <input placeholder={"Password"} type={"password"} className={"control-wrap"} autoComplete={"on"}/>
+                    <input type={"submit"} value={"Submit"} className={"btn btn-success"}/>
                 </form>
             </div>
         </div>)

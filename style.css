@@ -18,12 +18,48 @@
 }
 
 .control-wrap{
-    width: 75%;
     border:1px solid rgba(0, 0, 0, 0.19);
     padding: 3px 8px;
+    display: inline-block;
+}
+
+.control-wrap:focus{
+    border: 2px solid rgba(0, 0, 0, 0.19);
+}
+
+.card-form{
+    margin: 5%;
+    display: inline-block;
+}
+
+.btn{
+    margin: 5%;
+    display: inline-block;
+    height: 30px;
+    width: 70px;
+    border: unset;
+}
+
+.btn-success{
+    background-color: #4eb83c;
+    color: aliceblue;
+}
+
+.btn-success:hover{
+    background: #4fbf3d;
 }
 
 body, input{
     font-family: "open sans","Helvetica Neue",Helvetica,Arial,sans-serif!important;
     color: #404040;
+    font-size: 15px;
 }
+
+input {
+    width: 65%;
+    transition: ease-in-out, width .15s ease-in-out;
+    margin-bottom: 5%;
+}
+
+
+
