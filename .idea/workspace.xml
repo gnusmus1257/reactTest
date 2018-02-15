@@ -2,56 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f79fc527-5de4-4bb2-a344-631730dc1991" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Icons/AppStore.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Apple Music.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Apple Watch.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Apple Watch2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Calculator.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Camera.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Compass.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Contacts.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Facetime.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Find Friends.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Find iPhone.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Find my iPhone.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Game Center.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Garage Band.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Health.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Mail.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Maps.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Messages.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Music.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/News.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Notes.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Phone.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Photo Booth.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Photos.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Podcats.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Reminders.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Safari.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Settings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Stocks.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Tips.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Videos.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Voice Memos.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Wallet.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Wallet2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Weather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/Youtube.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iBooks.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iBooks2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iCloud Drive.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iMovie.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iPhoto.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iTunes Radio.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iTunes Store.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Icons/iTunes U.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/iphone.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/iphone.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Content/styles/style.css" afterPath="$PROJECT_DIR$/Content/styles/style.css" />
+      <change beforePath="$PROJECT_DIR$/js/index.jsx" afterPath="$PROJECT_DIR$/js/index.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -75,21 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/Index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="153">
+              <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -98,8 +40,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Content/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="612">
+              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -129,6 +71,7 @@
         <option value="$PROJECT_DIR$/index.jsx" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/view/Index.html" />
+        <option value="$PROJECT_DIR$/js/index.jsx" />
         <option value="$PROJECT_DIR$/Content/styles/style.css" />
       </list>
     </option>
@@ -204,6 +147,19 @@
               <item name="reactTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="reactTest" type="462c0819:PsiDirectoryNode" />
               <item name="Content" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+              <item name="Icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,6 +186,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/a4.ilin/Documents/reactTest/js/index.jsx" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -273,12 +230,12 @@
       <workItem from="1518596043305" duration="4465000" />
       <workItem from="1518607834805" duration="1126000" />
       <workItem from="1518616721490" duration="8214000" />
-      <workItem from="1518703711499" duration="2871000" />
+      <workItem from="1518703711499" duration="4884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19207000" />
+    <option name="totallyTimeSpent" value="21220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -537,16 +494,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="153">
+          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="612">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
           <folding />
         </state>
       </provider>
